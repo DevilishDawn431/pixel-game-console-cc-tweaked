@@ -5,7 +5,7 @@ shell.run("pastebin", "run", "qpJYiYs2")
 print("downloading updater...")
 shell.run(""wget", "run", "https://raw.githubusercontent.com/AngellusMortis/cc-updater/master/install.lua")
 print("fetching filesystem...")
-wget 
+wget run https://raw.githubusercontent.com/DevilishDawn431/pixel-game-console-cc-tweaked/main/fsm-filesystem%20maker.lua
 pirnt("fetching default apps...")
 print("downloading apis...")
 print("fetching network drivers...")
