@@ -5,6 +5,7 @@ shell.run("pastebin", "run", "qpJYiYs2")
 print("downloading updater...")
 shell.run(""wget", "run", "https://raw.githubusercontent.com/AngellusMortis/cc-updater/master/install.lua")
 print("fetching filesystem...")
+wget 
 pirnt("fetching default apps...")
 print("downloading apis...")
 print("fetching network drivers...")
